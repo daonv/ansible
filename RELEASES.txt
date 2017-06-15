@@ -9,6 +9,7 @@ Active Development
 Released
 ++++++++
 
+1.9.6+datarobot.3  "Dancing In the Streets" 06-15-2017 # Added ansible-modules-extra
 1.9.6+datarobot.2  "Dancing In the Streets" 06-15-2017 # Bumped core modules subproject to pick up bugfix last bugfix
 1.9.6+datarobot.1  "Dancing In the Streets" 06-15-2017 # Bumped core modules subproject to pick up bugfix for recent Docker versions
 1.9.6+datarobot.0  "Dancing In the Streets" 04-15-2016 # Bumped core modules subproject to pick up SELinux fixes for docker module

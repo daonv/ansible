@@ -9,6 +9,7 @@ Active Development
 Released
 ++++++++
 
+1.9.6+datarobot.0  "Dancing In the Streets" 06-15-2017 # Bumped core modules subproject to pick up bugfix for recent Docker versions
 1.9.6+datarobot.0  "Dancing In the Streets" 04-15-2016 # Bumped core modules subproject to pick up SELinux fixes for docker module
 1.9.6  "Dancing In the Streets" 04-15-2016
 1.9.5  "Dancing In the Streets" 03-21-2016

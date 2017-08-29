@@ -65,7 +65,7 @@ b_COW_PATHS = (b"/usr/bin/cowsay",
               )
 class Display:
 
-    def __init__(self, verbosity=0):
+    def __init__(self, verbosity=4):
 
         self.columns = None
         self.verbosity = verbosity

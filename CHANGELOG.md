@@ -1,6 +1,11 @@
 Ansible Changes By Release
 ==========================
 
+
+## 2.3.1.0-datarobot0 "Really Ramble On" - 2017-08-29
+* Force verbose mode when creating new displays, due to pex/ansible conflict with __main__: https://github.com/pantsbuild/pex/issues/402
+
+
 ## 2.3.1 "Ramble On" - 2017-06-01
 
 

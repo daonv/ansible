@@ -2,6 +2,10 @@
 Ansible 2.6 "Heartbreaker" Release Notes
 ========================================
 
+v2.6.3+datarobot0 "Heartbroken"
+===============================
+* Force verbose mode when creating new displays, due to pex/ansible conflict with __main__: https://github.com/pantsbuild/pex/issues/402
+
 v2.6.3
 ======
 
